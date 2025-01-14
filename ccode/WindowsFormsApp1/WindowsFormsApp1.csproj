@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6348AE86-C56A-4967-B733-3F5C3A3FADCA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsApp1</RootNamespace>
+    <AssemblyName>WindowsFormsApp1</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CalisanAnaSayfaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CalisanAnaSayfaForm.Designer.cs">
+      <DependentUpon>CalisanAnaSayfaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CalisanGunlukOzet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CalisanGunlukOzet.Designer.cs">
+      <DependentUpon>CalisanGunlukOzet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CCikarYoneticiForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CCikarYoneticiForm.Designer.cs">
+      <DependentUpon>CCikarYoneticiForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CEkleYoneticiForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CEkleYoneticiForm.Designer.cs">
+      <DependentUpon>CEkleYoneticiForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuForm.Designer.cs">
+      <DependentUpon>MenuForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuVeriEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuVeriEkle.Designer.cs">
+      <DependentUpon>MenuVeriEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuVeriGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuVeriGuncelle.Designer.cs">
+      <DependentUpon>MenuVeriGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuVeriSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuVeriSil.Designer.cs">
+      <DependentUpon>MenuVeriSil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MusteriAnaSayfaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MusteriAnaSayfaForm.Designer.cs">
+      <DependentUpon>MusteriAnaSayfaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PasswordChangeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PasswordChangeForm.Designer.cs">
+      <DependentUpon>PasswordChangeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PaymentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PaymentForm.Designer.cs">
+      <DependentUpon>PaymentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegisterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegisterForm.Designer.cs">
+      <DependentUpon>RegisterForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SepetForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SepetForm.Designer.cs">
+      <DependentUpon>SepetForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShoppingCart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShoppingCart.Designer.cs">
+      <DependentUpon>ShoppingCart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yAylik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yAylik.Designer.cs">
+      <DependentUpon>yAylik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YemekForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YemekForm.Designer.cs">
+      <DependentUpon>YemekForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yGunluk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yGunluk.Designer.cs">
+      <DependentUpon>yGunluk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yHaftalik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yHaftalik.Designer.cs">
+      <DependentUpon>yHaftalik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YoneticiAnaSayfaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YoneticiAnaSayfaForm.Designer.cs">
+      <DependentUpon>YoneticiAnaSayfaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ySatis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ySatis.Designer.cs">
+      <DependentUpon>ySatis.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CalisanAnaSayfaForm.resx">
+      <DependentUpon>CalisanAnaSayfaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CalisanGunlukOzet.resx">
+      <DependentUpon>CalisanGunlukOzet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CCikarYoneticiForm.resx">
+      <DependentUpon>CCikarYoneticiForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CEkleYoneticiForm.resx">
+      <DependentUpon>CEkleYoneticiForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuForm.resx">
+      <DependentUpon>MenuForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuVeriEkle.resx">
+      <DependentUpon>MenuVeriEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuVeriGuncelle.resx">
+      <DependentUpon>MenuVeriGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuVeriSil.resx">
+      <DependentUpon>MenuVeriSil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MusteriAnaSayfaForm.resx">
+      <DependentUpon>MusteriAnaSayfaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PasswordChangeForm.resx">
+      <DependentUpon>PasswordChangeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PaymentForm.resx">
+      <DependentUpon>PaymentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RegisterForm.resx">
+      <DependentUpon>RegisterForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SepetForm.resx">
+      <DependentUpon>SepetForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShoppingCart.resx">
+      <DependentUpon>ShoppingCart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yAylik.resx">
+      <DependentUpon>yAylik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YemekForm.resx">
+      <DependentUpon>YemekForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yGunluk.resx">
+      <DependentUpon>yGunluk.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yHaftalik.resx">
+      <DependentUpon>yHaftalik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YoneticiAnaSayfaForm.resx">
+      <DependentUpon>YoneticiAnaSayfaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ySatis.resx">
+      <DependentUpon>ySatis.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include=".editorconfig" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-150.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OIP %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OIP %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\th.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\lahmacun.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

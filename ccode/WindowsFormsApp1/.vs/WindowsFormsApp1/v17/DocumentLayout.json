@@ -1,0 +1,797 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\cekleyoneticiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|solutionrelative:cekleyoneticiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\calisangunlukozet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|solutionrelative:calisangunlukozet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\ccikaryoneticiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|solutionrelative:ccikaryoneticiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\yemekform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|solutionrelative:yemekform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|c:\\users\\hamza can\\source\\repos\\ccode\\windowsformsapp1\\menuverisil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|solutionrelative:menuverisil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\menuveriekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|solutionrelative:menuveriekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\menuveriguncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|solutionrelative:menuveriguncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\menuform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|solutionrelative:menuform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\passwordchangeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|solutionrelative:passwordchangeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\yaylik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|solutionrelative:yaylik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\ygunluk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|solutionrelative:ygunluk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\yhaftalik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|solutionrelative:yhaftalik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\ysatis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|solutionrelative:ysatis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\yaylik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|solutionrelative:yaylik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\passwordchangeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|solutionrelative:passwordchangeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\yoneticianasayfaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|solutionrelative:yoneticianasayfaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|solutionrelative:shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\sepetform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|solutionrelative:sepetform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|solutionrelative:shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|solutionrelative:registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\yoneticianasayfaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|solutionrelative:yoneticianasayfaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\ysatis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|solutionrelative:ysatis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\calisananasayfaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|solutionrelative:calisananasayfaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|solutionrelative:registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\yhaftalik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|solutionrelative:yhaftalik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\ygunluk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|solutionrelative:ygunluk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\yemekform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|solutionrelative:yemekform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\sepetform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|solutionrelative:sepetform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\musterianasayfaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|solutionrelative:musterianasayfaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|solutionrelative:paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|solutionrelative:paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\musterianasayfaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|solutionrelative:musterianasayfaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\menuverisil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|solutionrelative:menuverisil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\menuveriguncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|solutionrelative:menuveriguncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\menuveriekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|solutionrelative:menuveriekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|solutionrelative:menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|solutionrelative:menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\cekleyoneticiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|solutionrelative:cekleyoneticiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\ccikaryoneticiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|solutionrelative:ccikaryoneticiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\calisangunlukozet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|solutionrelative:calisangunlukozet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\calisananasayfaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|solutionrelative:calisananasayfaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\yemekform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|solutionrelative:yemekform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\shoppingcart.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|solutionrelative:shoppingcart.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6348AE86-C56A-4967-B733-3F5C3A3FADCA}|WindowsFormsApp1.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "YemekForm.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\YemekForm.cs",
+              "RelativeDocumentMoniker": "YemekForm.cs",
+              "ToolTip": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\YemekForm.cs",
+              "RelativeToolTip": "YemekForm.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA/wBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:20:13.19Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CCikarYoneticiForm.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\CCikarYoneticiForm.cs",
+              "RelativeDocumentMoniker": "CCikarYoneticiForm.cs",
+              "ToolTip": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\CCikarYoneticiForm.cs",
+              "RelativeToolTip": "CCikarYoneticiForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T21:17:21.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalisanGunlukOzet.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\CalisanGunlukOzet.cs",
+              "RelativeDocumentMoniker": "CalisanGunlukOzet.cs",
+              "ToolTip": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\CalisanGunlukOzet.cs",
+              "RelativeToolTip": "CalisanGunlukOzet.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T17:46:43.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuVeriGuncelle.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\MenuVeriGuncelle.cs",
+              "RelativeDocumentMoniker": "MenuVeriGuncelle.cs",
+              "ToolTip": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\MenuVeriGuncelle.cs",
+              "RelativeToolTip": "MenuVeriGuncelle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:40:14.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CEkleYoneticiForm.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\CEkleYoneticiForm.cs",
+              "RelativeDocumentMoniker": "CEkleYoneticiForm.cs",
+              "ToolTip": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\CEkleYoneticiForm.cs",
+              "RelativeToolTip": "CEkleYoneticiForm.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowJMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T18:26:56.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuVeriSil.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\MenuVeriSil.cs",
+              "RelativeDocumentMoniker": "MenuVeriSil.cs",
+              "ToolTip": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\MenuVeriSil.cs",
+              "RelativeToolTip": "MenuVeriSil.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAwwDQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:31:22.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuVeriEkle.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\MenuVeriEkle.cs",
+              "RelativeDocumentMoniker": "MenuVeriEkle.cs",
+              "ToolTip": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\MenuVeriEkle.cs",
+              "RelativeToolTip": "MenuVeriEkle.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA7wF0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:11:09.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\MenuForm.Designer.cs",
+              "RelativeDocumentMoniker": "MenuForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\MenuForm.Designer.cs",
+              "RelativeToolTip": "MenuForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:50:48.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PasswordChangeForm.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\PasswordChangeForm.cs",
+              "RelativeDocumentMoniker": "PasswordChangeForm.cs",
+              "ToolTip": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\PasswordChangeForm.cs",
+              "RelativeToolTip": "PasswordChangeForm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T20:35:38.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "yAylik.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\yAylik.cs",
+              "RelativeDocumentMoniker": "yAylik.cs",
+              "ToolTip": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\yAylik.cs",
+              "RelativeToolTip": "yAylik.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswEIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T18:40:07.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "yGunluk.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\yGunluk.cs",
+              "RelativeDocumentMoniker": "yGunluk.cs",
+              "ToolTip": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\yGunluk.cs",
+              "RelativeToolTip": "yGunluk.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswEMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T18:36:24.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "yHaftalik.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\yHaftalik.cs",
+              "RelativeDocumentMoniker": "yHaftalik.cs",
+              "ToolTip": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\yHaftalik.cs",
+              "RelativeToolTip": "yHaftalik.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T18:30:37.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ySatis.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\ySatis.cs",
+              "RelativeDocumentMoniker": "ySatis.cs",
+              "ToolTip": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\ySatis.cs",
+              "RelativeToolTip": "ySatis.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T18:51:49.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "yAylik.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\yAylik.cs",
+              "RelativeDocumentMoniker": "yAylik.cs",
+              "ToolTip": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\yAylik.cs [Tasar\u0131m]",
+              "RelativeToolTip": "yAylik.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T18:27:05.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PasswordChangeForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\PasswordChangeForm.cs",
+              "RelativeDocumentMoniker": "PasswordChangeForm.cs",
+              "ToolTip": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\PasswordChangeForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "PasswordChangeForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T20:30:33.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "YoneticiAnaSayfaForm.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\YoneticiAnaSayfaForm.cs",
+              "RelativeDocumentMoniker": "YoneticiAnaSayfaForm.cs",
+              "ToolTip": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\YoneticiAnaSayfaForm.cs",
+              "RelativeToolTip": "YoneticiAnaSayfaForm.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAEwH8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T21:39:20.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\ShoppingCart.cs",
+              "RelativeToolTip": "ShoppingCart.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAywIcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:26:41.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SepetForm.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\SepetForm.cs",
+              "RelativeDocumentMoniker": "SepetForm.cs",
+              "ToolTip": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\SepetForm.cs",
+              "RelativeToolTip": "SepetForm.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwDwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:21:54.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ShoppingCart.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\ShoppingCart.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ShoppingCart.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:26:09.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "RegisterForm.cs",
+              "ToolTip": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\RegisterForm.cs",
+              "RelativeToolTip": "RegisterForm.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAACoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T21:27:22.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T20:16:31.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ySatis.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\ySatis.cs",
+              "RelativeDocumentMoniker": "ySatis.cs",
+              "ToolTip": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\ySatis.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ySatis.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T18:49:26.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "YoneticiAnaSayfaForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\YoneticiAnaSayfaForm.cs",
+              "RelativeDocumentMoniker": "YoneticiAnaSayfaForm.cs",
+              "ToolTip": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\YoneticiAnaSayfaForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "YoneticiAnaSayfaForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T21:39:04.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CalisanAnaSayfaForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\CalisanAnaSayfaForm.cs",
+              "RelativeDocumentMoniker": "CalisanAnaSayfaForm.cs",
+              "ToolTip": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\CalisanAnaSayfaForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "CalisanAnaSayfaForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T21:37:13.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:59:53.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RegisterForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "RegisterForm.cs",
+              "ToolTip": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\RegisterForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "RegisterForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T20:02:27.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "yHaftalik.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\yHaftalik.cs",
+              "RelativeDocumentMoniker": "yHaftalik.cs",
+              "ToolTip": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\yHaftalik.cs [Tasar\u0131m]",
+              "RelativeToolTip": "yHaftalik.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T18:26:51.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "yGunluk.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\yGunluk.cs",
+              "RelativeDocumentMoniker": "yGunluk.cs",
+              "ToolTip": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\yGunluk.cs [Tasar\u0131m]",
+              "RelativeToolTip": "yGunluk.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T18:26:36.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "YemekForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\YemekForm.cs",
+              "RelativeDocumentMoniker": "YemekForm.cs",
+              "ToolTip": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\YemekForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "YemekForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:00:45.305Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SepetForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\SepetForm.cs",
+              "RelativeDocumentMoniker": "SepetForm.cs",
+              "ToolTip": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\SepetForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "SepetForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:13:18.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MusteriAnaSayfaForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\MusteriAnaSayfaForm.cs",
+              "RelativeDocumentMoniker": "MusteriAnaSayfaForm.cs",
+              "ToolTip": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\MusteriAnaSayfaForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "MusteriAnaSayfaForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T20:52:48.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PaymentForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\PaymentForm.cs",
+              "RelativeDocumentMoniker": "PaymentForm.cs",
+              "ToolTip": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\PaymentForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "PaymentForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:49:10.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PaymentForm.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\PaymentForm.cs",
+              "RelativeDocumentMoniker": "PaymentForm.cs",
+              "ToolTip": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\PaymentForm.cs",
+              "RelativeToolTip": "PaymentForm.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAADwv2wAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:50:58.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MusteriAnaSayfaForm.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\MusteriAnaSayfaForm.cs",
+              "RelativeDocumentMoniker": "MusteriAnaSayfaForm.cs",
+              "ToolTip": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\MusteriAnaSayfaForm.cs",
+              "RelativeToolTip": "MusteriAnaSayfaForm.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAAwI0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T21:01:13.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MenuVeriSil.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\MenuVeriSil.cs",
+              "RelativeDocumentMoniker": "MenuVeriSil.cs",
+              "ToolTip": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\MenuVeriSil.cs [Tasar\u0131m]",
+              "RelativeToolTip": "MenuVeriSil.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:29:13.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "MenuVeriGuncelle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\MenuVeriGuncelle.cs",
+              "RelativeDocumentMoniker": "MenuVeriGuncelle.cs",
+              "ToolTip": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\MenuVeriGuncelle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "MenuVeriGuncelle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:40:09.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "MenuVeriEkle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\MenuVeriEkle.cs",
+              "RelativeDocumentMoniker": "MenuVeriEkle.cs",
+              "ToolTip": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\MenuVeriEkle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "MenuVeriEkle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:04:15.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "MenuForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\MenuForm.cs",
+              "RelativeDocumentMoniker": "MenuForm.cs",
+              "ToolTip": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\MenuForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "MenuForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:22:35.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MenuForm.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\MenuForm.cs",
+              "RelativeDocumentMoniker": "MenuForm.cs",
+              "ToolTip": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\MenuForm.cs",
+              "RelativeToolTip": "MenuForm.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:30:37.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "LoginForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\LoginForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "LoginForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:42:02.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\LoginForm.cs",
+              "RelativeToolTip": "LoginForm.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAAALIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T20:22:43.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:54:11.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CEkleYoneticiForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\CEkleYoneticiForm.cs",
+              "RelativeDocumentMoniker": "CEkleYoneticiForm.cs",
+              "ToolTip": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\CEkleYoneticiForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "CEkleYoneticiForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T18:09:14.709Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CCikarYoneticiForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\CCikarYoneticiForm.cs",
+              "RelativeDocumentMoniker": "CCikarYoneticiForm.cs",
+              "ToolTip": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\CCikarYoneticiForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "CCikarYoneticiForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T21:12:55.205Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CalisanGunlukOzet.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\CalisanGunlukOzet.cs",
+              "RelativeDocumentMoniker": "CalisanGunlukOzet.cs",
+              "ToolTip": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\CalisanGunlukOzet.cs [Tasar\u0131m]",
+              "RelativeToolTip": "CalisanGunlukOzet.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T17:43:02.373Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CalisanAnaSayfaForm.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\CalisanAnaSayfaForm.cs",
+              "RelativeDocumentMoniker": "CalisanAnaSayfaForm.cs",
+              "ToolTip": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\CalisanAnaSayfaForm.cs",
+              "RelativeToolTip": "CalisanAnaSayfaForm.cs",
+              "ViewState": "AgIAAMMAAAAAAAAAAIAxwNcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T21:37:18.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "YemekForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\YemekForm.Designer.cs",
+              "RelativeDocumentMoniker": "YemekForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\YemekForm.Designer.cs",
+              "RelativeToolTip": "YemekForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:45:07.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ShoppingCart.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\ShoppingCart.Designer.cs",
+              "RelativeDocumentMoniker": "ShoppingCart.Designer.cs",
+              "ToolTip": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\ShoppingCart.Designer.cs",
+              "RelativeToolTip": "ShoppingCart.Designer.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAYwDgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T09:26:41.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Hamza Can\\source\\repos\\ccode\\WindowsFormsApp1\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T20:30:55.715Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
